@@ -26,5 +26,6 @@ public class array2d {
             }
             System.out.println();
         }
+        sc.close();
     }
 }
