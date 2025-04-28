@@ -34,7 +34,10 @@ public class ConstrOverloading {
         Student s2=new Student("Aditya");
         Student s3=new Student("Aditya",21,"A+");
         s1.printDetail();
+        System.out.println();
         s2.printDetail();
+        System.out.println();
         s3.printDetail();
+        System.out.println();
     }
 }
