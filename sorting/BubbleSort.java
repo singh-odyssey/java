@@ -12,7 +12,7 @@ public class BubbleSort {
         for (int i = 0; i < array.length; i++) {
             array[i] = sc.nextInt();
         }
-
+        sc.close();
         System.out.println();
         System.out.println("Your array is -> ");
         for (int i : array) {
